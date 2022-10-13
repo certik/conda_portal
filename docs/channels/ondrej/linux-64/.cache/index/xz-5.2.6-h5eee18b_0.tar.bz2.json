@@ -1,0 +1,1 @@
+{"build": "h5eee18b_0", "build_number": 0, "depends": ["libgcc-ng >=11.2.0"], "license": "LGPL-2.1-or-later and GPL-2.0-or-later", "license_family": "GPL2", "name": "xz", "subdir": "linux-64", "timestamp": 1664287115388, "version": "5.2.6", "size": 486831, "md5": "82ef85822b3b1deca12197d9db565aee", "sha256": "55974ed382fd96f6f2f908b5a99e12984bc5cf880063d3e5b7743183800e2cb1"}

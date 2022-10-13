@@ -1,0 +1,869 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "8336245db41d0c54f1cf761f582651ef4210b63a2fece1ee92afe99852fe7dc5",
+      "size_in_bytes": 1072
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "920fe252be2deafb13a84012560130f78d102abc98984219dd8f72d0d0e7ece2",
+      "size_in_bytes": 757
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "d6761dd54a874530076dcb5ab72c71e4f92d1019b5faf6550afc0443bb59c7d8",
+      "size_in_bytes": 20144
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "1cf7769922e793bd754cc8de4e7cde555f39aceac851b7e5a6a7f51e4ab7cf5b",
+      "size_in_bytes": 106
+    },
+    {
+      "_path": "site-packages/elf-0.4.5.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "bd9954677aab369debd570b789dda7e743c1759776111bb5ce6495d430440b11",
+      "size_in_bytes": 9
+    },
+    {
+      "_path": "site-packages/elf/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "7b74b411c0c6265588a7685d752163bedeb7de37de6785bb57201e2e97d35953",
+      "size_in_bytes": 37
+    },
+    {
+      "_path": "site-packages/elf/__version__.py",
+      "path_type": "hardlink",
+      "sha256": "8cc73b50cda901263d17ccf45cc00b41b497c46080c563f27974256abc03d152",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "site-packages/elf/color/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "0a08557347b997ef0e04a0d5023cac931494d859ca97f59f78d2dca5850814ff",
+      "size_in_bytes": 44
+    },
+    {
+      "_path": "site-packages/elf/color/palette.py",
+      "path_type": "hardlink",
+      "sha256": "bfa107d22d42f1f5f0c970eb36ffde8009bd0e156e88b15f96d6427ec64c023e",
+      "size_in_bytes": 2016
+    },
+    {
+      "_path": "site-packages/elf/evaluation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "5cf7a39d93a6e45eb08c082c2f2695dc566d339afa95d28f4008f10018db8a39",
+      "size_in_bytes": 257
+    },
+    {
+      "_path": "site-packages/elf/evaluation/cremi_score.py",
+      "path_type": "hardlink",
+      "sha256": "2c814869e1a2d4b10cd765981c135044221d7c46329c56c4ae35c084330132b8",
+      "size_in_bytes": 1720
+    },
+    {
+      "_path": "site-packages/elf/evaluation/dice.py",
+      "path_type": "hardlink",
+      "sha256": "9e36a7ce6ca7362e918fde48f799b1665585095d8ea792f2b174518bee9d38eb",
+      "size_in_bytes": 3193
+    },
+    {
+      "_path": "site-packages/elf/evaluation/matching.py",
+      "path_type": "hardlink",
+      "sha256": "1d7a17fac4c1a25d6a94cae9c038721c0c94edf90b99e10b9e33798ee3472b98",
+      "size_in_bytes": 6678
+    },
+    {
+      "_path": "site-packages/elf/evaluation/rand_index.py",
+      "path_type": "hardlink",
+      "sha256": "2dd913497fc42ec7359fe97a5430873ec229f45e770ffe9354bdf14294443134",
+      "size_in_bytes": 1928
+    },
+    {
+      "_path": "site-packages/elf/evaluation/util.py",
+      "path_type": "hardlink",
+      "sha256": "db61d132dbacda64e3a412ed29c26416ca5b37df3922bf9ab7b26ff760bf8069",
+      "size_in_bytes": 1995
+    },
+    {
+      "_path": "site-packages/elf/evaluation/variation_of_information.py",
+      "path_type": "hardlink",
+      "sha256": "2a2f60ba21046cb07b03b5ac00bac226ef11a2fa53754ee4ac481f77abd0e9ae",
+      "size_in_bytes": 4529
+    },
+    {
+      "_path": "site-packages/elf/htm/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "fe6e9f1715bb6ebd7be81c5039ff8646693027dc363ed223f224420aa8f90c34",
+      "size_in_bytes": 99
+    },
+    {
+      "_path": "site-packages/elf/htm/parser.py",
+      "path_type": "hardlink",
+      "sha256": "f0d331ec4adfcb16d2b7ed62357ad1668f871239a91b58b6ddacf08684640f66",
+      "size_in_bytes": 2045
+    },
+    {
+      "_path": "site-packages/elf/htm/visualization.py",
+      "path_type": "hardlink",
+      "sha256": "7733c5565b94fad613abb5b067a39aeb7071a38374638d48fb1512a1d141beac",
+      "size_in_bytes": 12914
+    },
+    {
+      "_path": "site-packages/elf/ilastik/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/elf/ilastik/carving.py",
+      "path_type": "hardlink",
+      "sha256": "984cf58b3f719247f4ee6965c4308aeabedf81fc817cd7cf4c0948664e33a7e3",
+      "size_in_bytes": 1296
+    },
+    {
+      "_path": "site-packages/elf/io/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "aa670dc7dcd35964e73bdf7ebf3921b69869ef84e270e47e32af42beec460d69",
+      "size_in_bytes": 121
+    },
+    {
+      "_path": "site-packages/elf/io/extensions.py",
+      "path_type": "hardlink",
+      "sha256": "ec2ebe3cee574c4ee683a280ff9051056f681d158a4d94c01bfb1b80c2458bde",
+      "size_in_bytes": 3171
+    },
+    {
+      "_path": "site-packages/elf/io/files.py",
+      "path_type": "hardlink",
+      "sha256": "8dc2ea02a9e37c8d95af0c08ce2890717c0fe2a5ce07061b1559726b80ac7cdd",
+      "size_in_bytes": 2799
+    },
+    {
+      "_path": "site-packages/elf/io/image_stack_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "8f6be6e24210e3c53ca80f6fc20f0fc49e07553d0b6371ded328284145b6b446",
+      "size_in_bytes": 6907
+    },
+    {
+      "_path": "site-packages/elf/io/intern_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "ef164c6f321d07d16ef40451899bc4271c1350904d71ee68079df8dde21b34b5",
+      "size_in_bytes": 2003
+    },
+    {
+      "_path": "site-packages/elf/io/knossos_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "83ea8a04ab44952e91f9ef0ec7b7a56f66ae4fc22ec577d378b60bc87da83745",
+      "size_in_bytes": 4569
+    },
+    {
+      "_path": "site-packages/elf/io/label_multiset_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "060d77a5e869e17173115d9d177a1b45570ef48e70a0fafc05930442d721d938",
+      "size_in_bytes": 2086
+    },
+    {
+      "_path": "site-packages/elf/io/mrc_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "9ac296ff477da3b969c968f8398e5cf6de7c5a7db54a1742b0eb5695b8cbd83f",
+      "size_in_bytes": 1877
+    },
+    {
+      "_path": "site-packages/elf/label_multiset/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "1a52a9779c2208a2f166dbb09aaade67b233492ab22e9c0ede4208e377fac7cd",
+      "size_in_bytes": 212
+    },
+    {
+      "_path": "site-packages/elf/label_multiset/create.py",
+      "path_type": "hardlink",
+      "sha256": "e67ab7d2fc33662feb959e89a245e2d0e7d4c599fa41b04fe9c97a435ad0f012",
+      "size_in_bytes": 5119
+    },
+    {
+      "_path": "site-packages/elf/label_multiset/label_multiset.py",
+      "path_type": "hardlink",
+      "sha256": "4b2d85311a2b2709db5797d53da2b8fcd0ae539c28c157ec080529134586fbd0",
+      "size_in_bytes": 3303
+    },
+    {
+      "_path": "site-packages/elf/label_multiset/serialize.py",
+      "path_type": "hardlink",
+      "sha256": "c4acf41c238e6b54a9ad4ca6307e898f4707558b7dd31232ea5c832d2f07bb2d",
+      "size_in_bytes": 6236
+    },
+    {
+      "_path": "site-packages/elf/mesh/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "254803538f765ccafb0ee8b7a82ff7918b71b91187ee9a4bbffb33b8623b692c",
+      "size_in_bytes": 33
+    },
+    {
+      "_path": "site-packages/elf/mesh/io.py",
+      "path_type": "hardlink",
+      "sha256": "7c0555ba983842d996d076c6e49cfabb7df693a826872b6c98292e8e2331850f",
+      "size_in_bytes": 4457
+    },
+    {
+      "_path": "site-packages/elf/mesh/mesh.py",
+      "path_type": "hardlink",
+      "sha256": "658d2512f9d4f3410919b8127ed144387db2ffcc100699ff60ed9c20b4af44e7",
+      "size_in_bytes": 2140
+    },
+    {
+      "_path": "site-packages/elf/mesh/mesh_to_segmentation.py",
+      "path_type": "hardlink",
+      "sha256": "00c3abfae16dec9ce569fe45e6b392b9c5a074a2ead726a2ae0ad936d09eabb5",
+      "size_in_bytes": 2054
+    },
+    {
+      "_path": "site-packages/elf/parallel/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "130ed452bed618d1d1922f565fd2e84d5f6da02ea18848e5d5393b20f03618dd",
+      "size_in_bytes": 389
+    },
+    {
+      "_path": "site-packages/elf/parallel/common.py",
+      "path_type": "hardlink",
+      "sha256": "95736fbede6bd143e3e66c762d05d0d8b0d9074bcc92424a8504e0adc92e9ada",
+      "size_in_bytes": 791
+    },
+    {
+      "_path": "site-packages/elf/parallel/copy_dataset.py",
+      "path_type": "hardlink",
+      "sha256": "ef84dbc1a4f17107be16d08eeaeae3ef45d455f959525e72c502ab66d8c10b91",
+      "size_in_bytes": 2483
+    },
+    {
+      "_path": "site-packages/elf/parallel/filters.py",
+      "path_type": "hardlink",
+      "sha256": "98b0284db7c23f95f58633fbd096aa697d4f665cedf9c0765ba265c23b355be4",
+      "size_in_bytes": 11415
+    },
+    {
+      "_path": "site-packages/elf/parallel/io.py",
+      "path_type": "hardlink",
+      "sha256": "c5aa5d59438432f4e2b75b793074974900ab218e23b2fba0e9198ca8bd160b68",
+      "size_in_bytes": 5093
+    },
+    {
+      "_path": "site-packages/elf/parallel/label.py",
+      "path_type": "hardlink",
+      "sha256": "62af8bef18a4ad5995ad3c5b688f3e7bb89130a98932171a53dc195bd37fc4c2",
+      "size_in_bytes": 9381
+    },
+    {
+      "_path": "site-packages/elf/parallel/operations.py",
+      "path_type": "hardlink",
+      "sha256": "e2bf23a3c585cb2c4d50e347dfa3b0c3c1ff51dd3430a7c4f9b93644912ee1b3",
+      "size_in_bytes": 12540
+    },
+    {
+      "_path": "site-packages/elf/parallel/relabel.py",
+      "path_type": "hardlink",
+      "sha256": "ae71c10ba1a1fb237e388172b91f8a086d59143d792b84e9bb4c0aa7843bb13c",
+      "size_in_bytes": 3338
+    },
+    {
+      "_path": "site-packages/elf/parallel/stats.py",
+      "path_type": "hardlink",
+      "sha256": "3992a136d5b20e7d2268386d0980d315113c7512c989afc37f4878cff6e9afc9",
+      "size_in_bytes": 8901
+    },
+    {
+      "_path": "site-packages/elf/parallel/unique.py",
+      "path_type": "hardlink",
+      "sha256": "5ccd9da5082622eb0b6d1350e394c3efaa0a8984e93d2162e3ff8f0ac6394898",
+      "size_in_bytes": 2764
+    },
+    {
+      "_path": "site-packages/elf/segmentation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a7d33764757fe4e780d2302a342609a1cceba80b7a4ba6e9ecd4a20e262adfd8",
+      "size_in_bytes": 850
+    },
+    {
+      "_path": "site-packages/elf/segmentation/blockwise_lmc_impl.py",
+      "path_type": "hardlink",
+      "sha256": "4a3a74e0de7b3daa945837bcf4214cd3cb2b5bc8c532332e077c6b902bc304a1",
+      "size_in_bytes": 6308
+    },
+    {
+      "_path": "site-packages/elf/segmentation/blockwise_mc_impl.py",
+      "path_type": "hardlink",
+      "sha256": "e3ea36d79f4629eefe91b2dc6c03b1dde81fc1369f5f3652d41ecf6d70914d1d",
+      "size_in_bytes": 4604
+    },
+    {
+      "_path": "site-packages/elf/segmentation/blockwise_mws_impl.py",
+      "path_type": "hardlink",
+      "sha256": "59334f010aaf3b750a1e63462752f0af6ff4434198c4090d9cdbf798af82ce37",
+      "size_in_bytes": 6577
+    },
+    {
+      "_path": "site-packages/elf/segmentation/clustering.py",
+      "path_type": "hardlink",
+      "sha256": "01b6fbff3e2ff3b20009edf3eca7c75f68653e397b606f414b90374d0c678a2b",
+      "size_in_bytes": 8489
+    },
+    {
+      "_path": "site-packages/elf/segmentation/embeddings.py",
+      "path_type": "hardlink",
+      "sha256": "2bbe48a1ccc8a992ff42866f8e52819b331f6675b37f7cecda862d735baebf37",
+      "size_in_bytes": 12611
+    },
+    {
+      "_path": "site-packages/elf/segmentation/features.py",
+      "path_type": "hardlink",
+      "sha256": "0ead0742b0252d9d869d147f38eeaee3863ea04cb143395c3efcfa010b0eb227",
+      "size_in_bytes": 30063
+    },
+    {
+      "_path": "site-packages/elf/segmentation/gasp.py",
+      "path_type": "hardlink",
+      "sha256": "d4e302b884b87c48cb0e319bd29b46a2e6ab976198be0b438b6f33af7942a92e",
+      "size_in_bytes": 25208
+    },
+    {
+      "_path": "site-packages/elf/segmentation/gasp_utils.py",
+      "path_type": "hardlink",
+      "sha256": "0dc86c7a9d359969e6be57d53a61f9e98fbb73b43d353ffe57e1b50c5513daba",
+      "size_in_bytes": 15905
+    },
+    {
+      "_path": "site-packages/elf/segmentation/learning.py",
+      "path_type": "hardlink",
+      "sha256": "0dfe4ecec011224a812dc9f9bedebfe4dfef7e425de9533c2ab3f699ddde1f35",
+      "size_in_bytes": 5009
+    },
+    {
+      "_path": "site-packages/elf/segmentation/lifted_multicut.py",
+      "path_type": "hardlink",
+      "sha256": "f8fec0e4879939c2221eaca57de89bc52d2e5d7ec2432656b3950b6c524badf6",
+      "size_in_bytes": 8214
+    },
+    {
+      "_path": "site-packages/elf/segmentation/multicut.py",
+      "path_type": "hardlink",
+      "sha256": "f40afed45ed2e1c1669f1fe62b03c20c38675fe00d91a474939bdd13630562f2",
+      "size_in_bytes": 19125
+    },
+    {
+      "_path": "site-packages/elf/segmentation/mutex_watershed.py",
+      "path_type": "hardlink",
+      "sha256": "ed0c17317ad5223e50f09d32aa8ea679db4a11433af38c60108b1ef883b32f42",
+      "size_in_bytes": 11075
+    },
+    {
+      "_path": "site-packages/elf/segmentation/postprocess.py",
+      "path_type": "hardlink",
+      "sha256": "ee30b15f6858afb19078cbe925a5ae1586b1d6ced2b7347ab46d45dbcae95249",
+      "size_in_bytes": 1283
+    },
+    {
+      "_path": "site-packages/elf/segmentation/utils.py",
+      "path_type": "hardlink",
+      "sha256": "aa2d19e2f166a58e3892880c3635a4e81f24ab90af5cc29004254917d0494111",
+      "size_in_bytes": 9625
+    },
+    {
+      "_path": "site-packages/elf/segmentation/watershed.py",
+      "path_type": "hardlink",
+      "sha256": "1141470daabb88edd5b73259f4f9f5b82317d703cd488eadd4f5c47e0485d961",
+      "size_in_bytes": 12748
+    },
+    {
+      "_path": "site-packages/elf/segmentation/workflows.py",
+      "path_type": "hardlink",
+      "sha256": "7825e4778ac059c6c2f6b747349f377e5b584b562f41c9ad1d26cc3da7568e7f",
+      "size_in_bytes": 30489
+    },
+    {
+      "_path": "site-packages/elf/skeleton/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e8092ab5972901a60f9af065d2ef196565534475f23f7bc5c0bdebd3de9c95b6",
+      "size_in_bytes": 55
+    },
+    {
+      "_path": "site-packages/elf/skeleton/io/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d556afa5c41ff0fd3c47db5a16056ac39dad763114131ddc7a53270e590b94e8",
+      "size_in_bytes": 108
+    },
+    {
+      "_path": "site-packages/elf/skeleton/io/n5.py",
+      "path_type": "hardlink",
+      "sha256": "4f81d013d87a53723f73f8f164540d066404e03b9585faa732a51987607b84dd",
+      "size_in_bytes": 2383
+    },
+    {
+      "_path": "site-packages/elf/skeleton/io/nml.py",
+      "path_type": "hardlink",
+      "sha256": "af758f4048ec8082149425d38912e1ee5d68f7ecbe2f4fdd0370165a98a77e24",
+      "size_in_bytes": 4108
+    },
+    {
+      "_path": "site-packages/elf/skeleton/io/swc.py",
+      "path_type": "hardlink",
+      "sha256": "e28cfa3e1048aa2fe8daeeb9a09898b595a77e6a2b11889eb0d32a4b40ff28d1",
+      "size_in_bytes": 3735
+    },
+    {
+      "_path": "site-packages/elf/skeleton/skeletonize.py",
+      "path_type": "hardlink",
+      "sha256": "4b5e5aab34f4c332e595c0c507975a25fe0b07a0fba5f5fd8ee2d96c0d88c8bc",
+      "size_in_bytes": 1431
+    },
+    {
+      "_path": "site-packages/elf/skeleton/thinning.py",
+      "path_type": "hardlink",
+      "sha256": "68fa9246d4ea7f657e28f745e9969f35989a0164846be32a43be6d042de1e875",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "site-packages/elf/tracking/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/elf/tracking/mamut.py",
+      "path_type": "hardlink",
+      "sha256": "a649e96ed951170deb75a6e9c1a9d44fd33cd66139a38645adafae7607c2c0a7",
+      "size_in_bytes": 2651
+    },
+    {
+      "_path": "site-packages/elf/transformation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "773f4ecff748122dfa654139af619d2600a4b4e7eda7f31e2915c479a08420d3",
+      "size_in_bytes": 570
+    },
+    {
+      "_path": "site-packages/elf/transformation/affine.py",
+      "path_type": "hardlink",
+      "sha256": "f875f73853d2290c1192799ee0feb97a394ef55125963c18e401167c684da010",
+      "size_in_bytes": 8582
+    },
+    {
+      "_path": "site-packages/elf/transformation/converter.py",
+      "path_type": "hardlink",
+      "sha256": "2be976ce394d1378fd3a0b6c04b3bfec639eb9a7078ef0dc3643a56daca01939",
+      "size_in_bytes": 18587
+    },
+    {
+      "_path": "site-packages/elf/transformation/elastix_parser.py",
+      "path_type": "hardlink",
+      "sha256": "0257b235abfa275571491c2504ffc4de8ff079391f9b8e00ade04537abfd291d",
+      "size_in_bytes": 4095
+    },
+    {
+      "_path": "site-packages/elf/transformation/elastix_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "4353daba9a667c4131d943a68b54899ed25b1d4e83653008e73bfad025bb3e15",
+      "size_in_bytes": 2438
+    },
+    {
+      "_path": "site-packages/elf/transformation/ngff.py",
+      "path_type": "hardlink",
+      "sha256": "c326f7e591400276537d8099352cbc667074c53a8e05bc00e18c0f6fe779f7e2",
+      "size_in_bytes": 5843
+    },
+    {
+      "_path": "site-packages/elf/transformation/resize.py",
+      "path_type": "hardlink",
+      "sha256": "463fb2eaae1c4aaf3c51091cb79215627ef79dfa2d5cf84a9fadb6c794ed745e",
+      "size_in_bytes": 1300
+    },
+    {
+      "_path": "site-packages/elf/transformation/transform_impl.py",
+      "path_type": "hardlink",
+      "sha256": "fc82b885ecc1e2aefc9b945b6521ca7357d4b689498f089651ed20df6a4c109c",
+      "size_in_bytes": 7811
+    },
+    {
+      "_path": "site-packages/elf/transformation/transformix_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "9f766a593eb7042d9ab41e0fb62cb49bbb5e7e655bba7adcc46e1aeab22ebacd",
+      "size_in_bytes": 2625
+    },
+    {
+      "_path": "site-packages/elf/util.py",
+      "path_type": "hardlink",
+      "sha256": "c6044a1974900bc80a2fa022cfeb77cd452c7ed531e238e66a6f3d72cfa53689",
+      "size_in_bytes": 9149
+    },
+    {
+      "_path": "site-packages/elf/visualisation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "299d7bf7f870d96a5a6d5f95a6220606df3d33f947436da339da88041a4f6275",
+      "size_in_bytes": 238
+    },
+    {
+      "_path": "site-packages/elf/visualisation/edge_visualisation.py",
+      "path_type": "hardlink",
+      "sha256": "3b3dd749d50330784921bf8f436c677893c0d1bec51914dfe3c1b9bf2890eaf6",
+      "size_in_bytes": 4760
+    },
+    {
+      "_path": "site-packages/elf/visualisation/object_visualisation.py",
+      "path_type": "hardlink",
+      "sha256": "e9cd67474878f9582884873de29dad4c8ce066a18af60acad4a64b6e54284ea9",
+      "size_in_bytes": 3171
+    },
+    {
+      "_path": "site-packages/elf/visualisation/size_histogram.py",
+      "path_type": "hardlink",
+      "sha256": "f77a0757f3dfd2920849c996a242000290e6fa1e4189031aca4ca7bd8de55221",
+      "size_in_bytes": 3499
+    },
+    {
+      "_path": "site-packages/elf/wrapper/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "eefb8c79753bd1e09086f1f9d6a962901b145a3790f5a5bd17373d682d2a0542",
+      "size_in_bytes": 137
+    },
+    {
+      "_path": "site-packages/elf/wrapper/affine_volume.py",
+      "path_type": "hardlink",
+      "sha256": "67f1ac2199e6a397191731862d39636278a7e3ff81bc7a8f2e3ebc7e571abb90",
+      "size_in_bytes": 2936
+    },
+    {
+      "_path": "site-packages/elf/wrapper/base.py",
+      "path_type": "hardlink",
+      "sha256": "bef14a1c4ff65427403148f4ab024342ff2ec35a6024d896f38e2ee7d651596d",
+      "size_in_bytes": 2341
+    },
+    {
+      "_path": "site-packages/elf/wrapper/cached_volume.py",
+      "path_type": "hardlink",
+      "sha256": "4eb8e12b321b25ec54293f0080d3cd649abb5cb9dbbd8a4860748ed36eddff55",
+      "size_in_bytes": 5601
+    },
+    {
+      "_path": "site-packages/elf/wrapper/generic.py",
+      "path_type": "hardlink",
+      "sha256": "64d1c98e11d048ccc554f8d1296d2ffde0bb574d1f74c231c85e39f1f63d5dee",
+      "size_in_bytes": 2025
+    },
+    {
+      "_path": "site-packages/elf/wrapper/resized_volume.py",
+      "path_type": "hardlink",
+      "sha256": "904322ada5c34219ce31a6cd3ab6e094403e6f4766e22d025fc732533bd8147b",
+      "size_in_bytes": 4079
+    },
+    {
+      "_path": "site-packages/test/color/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/color/test_color.py",
+      "path_type": "hardlink",
+      "sha256": "730369e88cf3c092d457f38344fc100d0baef8082d43277808ca5112e36854a9",
+      "size_in_bytes": 1045
+    },
+    {
+      "_path": "site-packages/test/evaluation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/evaluation/test_dice.py",
+      "path_type": "hardlink",
+      "sha256": "80d8bf4532c10d6f135a375a99fdc77d4e5efe2521a3695d25baff9d633c527a",
+      "size_in_bytes": 2439
+    },
+    {
+      "_path": "site-packages/test/evaluation/test_evaluation.py",
+      "path_type": "hardlink",
+      "sha256": "54faee5f752ccdbab64da390196be1b228d0ce5451ad4bcece9f23ed39b61fee",
+      "size_in_bytes": 4727
+    },
+    {
+      "_path": "site-packages/test/evaluation/test_matching.py",
+      "path_type": "hardlink",
+      "sha256": "463b752d5e289a18836fad54a23182e456e89adcaee9fbd2c3e2998b27170fc3",
+      "size_in_bytes": 2808
+    },
+    {
+      "_path": "site-packages/test/io_tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/io_tests/test_files.py",
+      "path_type": "hardlink",
+      "sha256": "7439d66b3bd59a6b064ebb43f3d8bdb6b3c392969e9b074361b7d6b6ca21f67c",
+      "size_in_bytes": 3736
+    },
+    {
+      "_path": "site-packages/test/io_tests/test_image_stack_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "e4a917d28701172a11f8581e3b52b80ccae110efb72325d1dd578215a26c45c5",
+      "size_in_bytes": 2338
+    },
+    {
+      "_path": "site-packages/test/io_tests/test_intern_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "e06ce71b1fa7a8d046506de15c56c35ae771963346a7f8e3edbada2c714f57f3",
+      "size_in_bytes": 1652
+    },
+    {
+      "_path": "site-packages/test/io_tests/test_knossos_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "0238e14d0768037400062007b644e4e4097ed20f6038ca6f59fc3b3c941ead3a",
+      "size_in_bytes": 514
+    },
+    {
+      "_path": "site-packages/test/io_tests/test_mrc_wrapper.py",
+      "path_type": "hardlink",
+      "sha256": "e9bab766c68d750e360e0e06b166a8caa57f19ec6fe85e99b9cb5131469178e9",
+      "size_in_bytes": 2148
+    },
+    {
+      "_path": "site-packages/test/label_multiset/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/label_multiset/generate_test_data.py",
+      "path_type": "hardlink",
+      "sha256": "04e8426108f161cce0edcb8cc705b5ca1266488dba64fe376454fae3de611914",
+      "size_in_bytes": 889
+    },
+    {
+      "_path": "site-packages/test/label_multiset/test_label_multiset.py",
+      "path_type": "hardlink",
+      "sha256": "b5390ca0c8f21e9fec4674d828412beff9cfc6f4b07a9ca916edd1b9a1262925",
+      "size_in_bytes": 5171
+    },
+    {
+      "_path": "site-packages/test/label_multiset/test_label_multiset_paintera.py",
+      "path_type": "hardlink",
+      "sha256": "ed0b18ad7e145f72b36b605fe85454f61be7d7d1390db3e01dee4b9a67a64722",
+      "size_in_bytes": 3551
+    },
+    {
+      "_path": "site-packages/test/mesh/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/mesh/test_io.py",
+      "path_type": "hardlink",
+      "sha256": "030695e92e6e041925409a0347ad8ac3b3745cadc910d7cc8daeec2e98b23345",
+      "size_in_bytes": 1220
+    },
+    {
+      "_path": "site-packages/test/mesh/test_mesh.py",
+      "path_type": "hardlink",
+      "sha256": "237602781ce72b5e89d37285d0dc8499b67862939e1f289477c0ef9dbd3817f3",
+      "size_in_bytes": 932
+    },
+    {
+      "_path": "site-packages/test/parallel/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/parallel/test_filters.py",
+      "path_type": "hardlink",
+      "sha256": "d3a33f18e1bb5266176d34f6acfe4bf4c97100b64c41f8e1b9f69d2574d13cf9",
+      "size_in_bytes": 4655
+    },
+    {
+      "_path": "site-packages/test/parallel/test_operations.py",
+      "path_type": "hardlink",
+      "sha256": "6634cd995bc4539655b32cf648d07ab3634aaf5fa3d323e43c2c21d251de30ef",
+      "size_in_bytes": 4217
+    },
+    {
+      "_path": "site-packages/test/parallel/test_parallel.py",
+      "path_type": "hardlink",
+      "sha256": "d30fb3d59161789c511eca5d771689e4a0294a686262a955ccf33ee4f3cee0b2",
+      "size_in_bytes": 2785
+    },
+    {
+      "_path": "site-packages/test/parallel/test_stats.py",
+      "path_type": "hardlink",
+      "sha256": "7e2a76d118c257ca53945ac4ba1c039f5363101dba485496b00e1c1f3c6a3cfa",
+      "size_in_bytes": 1432
+    },
+    {
+      "_path": "site-packages/test/segmentation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_GASP.py",
+      "path_type": "hardlink",
+      "sha256": "9befd190f637ebaa98339c18a04f2369c64cb3b860190e5d9d091622955a01db",
+      "size_in_bytes": 6348
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_clustering.py",
+      "path_type": "hardlink",
+      "sha256": "cf1cf1bbfd70bd1a2a92ef3ecb27d450c65774dd71a2ac20c2d14cd31f686e9b",
+      "size_in_bytes": 1903
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_embeddings.py",
+      "path_type": "hardlink",
+      "sha256": "3b98f7e801319ac8c57974a2955fd327c02cc66fa40ee32c2443bf47f827e48a",
+      "size_in_bytes": 628
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_features.py",
+      "path_type": "hardlink",
+      "sha256": "67f58bafa90cb1a53d83a029788167ba2262e4576a1966fcb25698078e399934",
+      "size_in_bytes": 11332
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_lifted_multicut.py",
+      "path_type": "hardlink",
+      "sha256": "c0a9443fbb3eb9ee445304872b36673a2ac2e512d3d3655c0994027d7e3f3e16",
+      "size_in_bytes": 2285
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_multicut.py",
+      "path_type": "hardlink",
+      "sha256": "8f4cf3770ebc909a036e2d264b341b0b6e3b2978440c53a7e8866fe56985e0cc",
+      "size_in_bytes": 4892
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_mutex_watershed.py",
+      "path_type": "hardlink",
+      "sha256": "6d56898585597019b7765cb4afa20a9248055ca064365d9b70237b5333304b63",
+      "size_in_bytes": 4802
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_watershed.py",
+      "path_type": "hardlink",
+      "sha256": "a7b5f291d146e48375f9edae306c9c63d3b8820dd0410e4b280f9ce3477fb691",
+      "size_in_bytes": 5019
+    },
+    {
+      "_path": "site-packages/test/segmentation/test_workflows.py",
+      "path_type": "hardlink",
+      "sha256": "1e9a7713bc3f6f0301278cd0ece27ca7411651567657b57ad4505ece7154aef8",
+      "size_in_bytes": 1395
+    },
+    {
+      "_path": "site-packages/test/skeleton/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/skeleton/test_io.py",
+      "path_type": "hardlink",
+      "sha256": "c08d0f62c3a62b3f36a1b605fec525d6000b488c35d6246d56e71d0dbf60e91c",
+      "size_in_bytes": 1311
+    },
+    {
+      "_path": "site-packages/test/skeleton/test_skeletonize.py",
+      "path_type": "hardlink",
+      "sha256": "292d51821883faa22cc66a9e2af4f3dd91b6e4fc6b691668002772ab50aca3e2",
+      "size_in_bytes": 594
+    },
+    {
+      "_path": "site-packages/test/transformation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/transformation/test_affine.py",
+      "path_type": "hardlink",
+      "sha256": "6932f5914da95d614350a13c77e2f58ed0a83d31f7aebd40b978cb074af95888",
+      "size_in_bytes": 5572
+    },
+    {
+      "_path": "site-packages/test/transformation/test_converter.py",
+      "path_type": "hardlink",
+      "sha256": "011542f81a15523fb52dea23d3ec1d42541ad08cbea80b92b2b60e12ab637bb9",
+      "size_in_bytes": 1826
+    },
+    {
+      "_path": "site-packages/test/transformation/test_elastix_parser.py",
+      "path_type": "hardlink",
+      "sha256": "d6baa5b12b34aa28a5d9df8422c311888264eaec8b1b5e3d44fa840e903cb308",
+      "size_in_bytes": 52
+    },
+    {
+      "_path": "site-packages/test/transformation/test_ngff.py",
+      "path_type": "hardlink",
+      "sha256": "66957ad1728fee83fd33d41247ac8d6fe30c2e16c4a48e37435cbb5df24f8061",
+      "size_in_bytes": 3742
+    },
+    {
+      "_path": "site-packages/test/transformation/test_transformation.py",
+      "path_type": "hardlink",
+      "sha256": "67627f2df336304a3fe676ac6d2fe54ca70618f648dec90460dfd871c4c8b5c0",
+      "size_in_bytes": 1487
+    },
+    {
+      "_path": "site-packages/test/wrapper/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/test/wrapper/test_affine_volume.py",
+      "path_type": "hardlink",
+      "sha256": "8a4da2a9131feed733b5f16f4cc231f9b1776f51afc9444fd6bde2e6b1741d9d",
+      "size_in_bytes": 2194
+    },
+    {
+      "_path": "site-packages/test/wrapper/test_cached_volume.py",
+      "path_type": "hardlink",
+      "sha256": "955729989986562c8412101900036bd21e9b095282b869ca296ce8ec41c498df",
+      "size_in_bytes": 1401
+    },
+    {
+      "_path": "site-packages/test/wrapper/test_generic.py",
+      "path_type": "hardlink",
+      "sha256": "c31f15f6f0c334e674b6294dbe684559ee1bd9e9f7f5a9b0cd72545efb5808d3",
+      "size_in_bytes": 1332
+    },
+    {
+      "_path": "site-packages/test/wrapper/test_resized_volume.py",
+      "path_type": "hardlink",
+      "sha256": "af41a8ccfa15e53f9e40fdcff243e6e69c09c656204c7beb938b3e9ba644b5df",
+      "size_in_bytes": 3208
+    }
+  ],
+  "paths_version": 1
+}

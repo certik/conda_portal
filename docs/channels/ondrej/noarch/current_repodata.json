@@ -1,0 +1,40 @@
+{
+  "info": {
+    "subdir": "noarch"
+  },
+  "packages": {
+    "python-elf-0.4.5-pyhd8ed1ab_0.tar.bz2": {
+      "build": "pyhd8ed1ab_0",
+      "build_number": 0,
+      "depends": [
+        "affogato",
+        "h5py",
+        "imageio",
+        "mrcfile",
+        "nifty >=1.1",
+        "numba",
+        "pandas",
+        "python >=3.6",
+        "scikit-image",
+        "scikit-learn",
+        "skan",
+        "tqdm",
+        "vigra",
+        "z5py >=2.0.10"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "e441bef17d72c92e0123d150b80b1558",
+      "name": "python-elf",
+      "noarch": "python",
+      "sha256": "3f7c8e3e0b372168c61b50b581fd7be7b7fbe71564f69720da90e023906b36fd",
+      "size": 216049,
+      "subdir": "noarch",
+      "timestamp": 1653757591929,
+      "version": "0.4.5"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}
